@@ -14,7 +14,7 @@ This dataset contains the seasonal and weekly count of rental bikes between year
 # Algorithms
 • Feature Engineering
 The provided data in Its raw form wasn't directly use as an input to the model serval future engineering was carried out where a few features we modified few were dropped
-1-Encode categorical column (Hour, season) drop first column
+*just 1-Encode categorical column (Hour, season) drop first column
 2-Scalar numerical column
 3- Fill zero value in windspeed 4- cross validation
 
